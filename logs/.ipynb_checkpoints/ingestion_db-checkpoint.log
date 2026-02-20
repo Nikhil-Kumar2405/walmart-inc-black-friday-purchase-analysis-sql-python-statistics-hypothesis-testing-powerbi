@@ -1,0 +1,12 @@
+2026-01-26 12:22:14,004 - INFO - Reading file: Data2/walmart_data.csv
+2026-01-26 12:22:14,401 - INFO - Ingesting walmart_data into Purchase.db
+2026-01-26 12:22:21,103 - INFO - Ingestion Complete. Total Time: 7.10 seconds
+2026-02-07 10:14:35,965 - INFO - Reading file: Data2/walmart_data.csv
+2026-02-07 10:14:36,386 - INFO - Ingesting walmart_data into Purchase.db
+2026-02-07 10:14:43,019 - INFO - Ingestion Complete. Total Time: 7.05 seconds
+2026-02-11 17:35:02,350 - INFO - Reading file: Data2/walmart_data.csv
+2026-02-11 17:35:02,776 - INFO - Ingesting walmart_data into Purchase.db
+2026-02-11 17:35:10,212 - INFO - Ingestion Complete. Total Time: 7.86 seconds
+2026-02-17 14:16:54,904 - INFO - Reading file: Data2/walmart_data.csv
+2026-02-17 14:16:55,354 - INFO - Ingesting walmart_data into Purchase.db
+2026-02-17 14:17:02,046 - INFO - Ingestion Complete. Total Time: 7.14 seconds
